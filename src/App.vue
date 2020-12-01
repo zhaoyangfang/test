@@ -6,6 +6,7 @@
 </template>
 
 <script>
+// 测试提交
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
